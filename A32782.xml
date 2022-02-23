@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Death compared to sleep in a sermon preacht upon the occasion of the funeral of Mrs. Mary Allen, who died Feb. 18, anno Dom. 1695 / by Thomas Cheesman ...</title>
+            <author>Cheesman, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32782</idno>
+            <idno type="STC">Wing C3774</idno>
+            <idno type="STC">ESTC R32592</idno>
+            <idno type="EEBO-CITATION">12725414</idno>
+            <idno type="OCLC">ocm 12725414</idno>
+            <idno type="VID">66359</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32782)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66359)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1523:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Death compared to sleep in a sermon preacht upon the occasion of the funeral of Mrs. Mary Allen, who died Feb. 18, anno Dom. 1695 / by Thomas Cheesman ...</title>
+                  <author>Cheesman, Thomas.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Death --  Religious aspects --  Christianity.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66359:1" rendition="simple:additions"/>
+            <p>DEATH Compared to a SLEEP, IN A SERMON, Preacht upon the occaſion of the Funeral of Mrs. MARY ALLEN, Who died <hi>Feb.</hi> 18. <hi>Anno Dom.</hi> 1695.</p>
+            <p>By <hi>Thomas Cheeſman,</hi> M.A. and formerly of <hi>Pem. Coll. Oxon.</hi> Miniſter of the Goſpel in <hi>Eaſt-Ilſly. Barks.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Parkhurſt</hi> at the <hi>Bible</hi> and <hi>Three Crowns,</hi> the lower end of <hi>Cheapſide,</hi> near <hi>Mercers Chapel.</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:66359:2"/>
+            <pb n="1" facs="tcp:66359:2"/>
+            <head>
+               <q>
+                  <bibl>
+                     <hi>Luke 8.52.</hi>
+                  </bibl>
+                  <p>Weep not, ſhe is not dead, but ſleepeth.</p>
+               </q>
+            </head>
+            <p>AT the 41th <hi>verſe</hi> of this Chapter, <hi>Jairus,</hi> a Ruler of a Synagogue amongſt the Jews; having an only Daughter, which lay ſick of a dangerous Diſeaſe, and at the point of death; fal<g ref="char:EOLhyphen"/>ling down at the feet of Jeſus, beſought him that he would come and heal hear; but while Jeſus was in his paſſage towards the houſe, the Maid gave up the Ghoſt; at the ſight of which, her Parents were filled with perplexing grief and ſorrow; and perhaps the rather, becauſe they thought this great Prophet came too late to do their Child good; ſhe was already become Death's Priſoner, and what power can reſcue a Captive out of the hand of all-conquering Death? our Saviour being compaſſionate and tender-hearted, applies ſuit<g ref="char:EOLhyphen"/>able comfort to them in the words of my Text; wherein you may obſerve;</p>
+            <pb n="2" facs="tcp:66359:3"/>
+            <p n="1">1. Seaſonable Counſel to reſtrain immode<g ref="char:EOLhyphen"/>rate grief and ſorrow; <hi>Weep not.</hi>
+            </p>
+            <p n="2">2. The hopeful ſtate and condition of the Per<g ref="char:EOLhyphen"/>ſon deceaſed; <hi>ſhe is not dead, but ſleepeth.</hi>
+            </p>
+            <p>I ſhall raiſe three Points of Doctrine from the words.</p>
+            <p n="1">1. <hi>We are very prone to exceſs in giving vent to our Paſſions:</hi> We are ſeldom angry, but our anger is over-hot, bitter and violent: Seldom fear, but we are overwhelmed with amazing diſ<g ref="char:EOLhyphen"/>couragement; ſeldom rejoyce in any creature-comfort, but our Joy does overflow the banks of moderation; we ſeldom love any thing in the World, but we love it too much: And when we grieve for any Affliction, we grieve too much: Therefore we ſhould watch over our hearts in this caſe, and ſtrive to keep Reaſon in the Throne; and let no Paſſion exerciſe dominion over us.</p>
+            <p n="2">2. <hi>'Tis a fault, when we grieve too much at the death of pious Friends and Relations:</hi> Tho' we may ſhed ſome tears as a teſtimony of our na<g ref="char:EOLhyphen"/>tural Affection; yet we muſt not weep as if we were without hope; but conſider, that tho' ſuch
+<pb n="3" facs="tcp:66359:3"/>fall under the ſtroke of Death; yet they are deli<g ref="char:EOLhyphen"/>vered from the ſting of Death; and when they are carried to the Grave, they reſt there as in a Bed of rich Perſumes, till they are awakened by the voice of their bleſſed Bridegroom in the Morning of the Reſurrection.</p>
+            <p n="3">3. <hi>Death may fitly be compared to a ſleep:</hi> 'Tis, according to one of the Poets, <hi>Imago morti<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> the Image of Death; and another ſtiles it, <hi>conſan<g ref="char:EOLhyphen"/>guineus Laethi Sopor,</hi> Death's Couſin-germane; they are near of kin one to the other: Sleep is a kind of ſhort Death, and Death is a long con<g ref="char:EOLhyphen"/>tinued Sleep: This expreſſion is familiar, both in the Old and New Teſtament. In the 11th of <hi>John</hi> Chriſt ſays to his Diſciples, <hi>Lazarus our friend ſleepeth.</hi> In 1 <hi>Cor.</hi> 15.6. ſpeaking con<g ref="char:EOLhyphen"/>cerning what clear evidence was given touch<g ref="char:EOLhyphen"/>ing the Reſurrection of Chriſt, it is ſaid, <hi>He was ſeen of more than five hundred Brethren at once, of which the greateſt part remain to this pre<g ref="char:EOLhyphen"/>ſent, and ſome are fallen aſleep,</hi> that is, dead. And in the 11th Chapter of the ſame Epiſtle, declaring what remarkable Judgments the great
+<pb n="4" facs="tcp:66359:4"/>King of Saints had executed upon the <hi>Corinthian</hi> Church, for their unworthy receiving the Sa<g ref="char:EOLhyphen"/>crament of the Lord's Supper; he ſays at the 30th <hi>verſe; For this cauſe many are weak and ſickly among you, and many ſleep,</hi> that is, were cur off by death, for that bold preſumptuous ſin, however many make ſo ſlight of it in our days. <hi>Stephen</hi> that firſt Martyr, which carries a Crown in the very ſignification of his Name, while the malicious Jews were caſting a ſhowre of Stones to deſtroy him; you may find it in <hi>Acts</hi> 7. <hi>ult. He kneeled down, and cried with a loud voice, Lord, lay not this ſin to their charge; and when he had ſaid this, he fell aſleep;</hi> that is, he laid down his life for the defence of Goſ<g ref="char:EOLhyphen"/>pel Truth. Likewiſe amongſt thoſe Miracles which were wrote when the Lord of Glory was crucified, this is one, recorded by the Evange<g ref="char:EOLhyphen"/>liſt St. <hi>Matthew, c.</hi> 27. <hi>v.</hi> 52. The Graves were opened, and many bodies of Saints which ſlept aroſe, not to lead an Animal life, or that they ſhould again return to their Graves; but as <hi>Dio<g ref="char:EOLhyphen"/>date</hi> ſpeaks upon the place, that they might ac<g ref="char:EOLhyphen"/>company Chriſt when he aſcended up to Hea<g ref="char:EOLhyphen"/>ven.</p>
+            <pb n="5" facs="tcp:66359:4"/>
+            <p>I ſhall ſhew what reſemblance there is be<g ref="char:EOLhyphen"/>tween Sleep and Death, in theſe following parti<g ref="char:EOLhyphen"/>culars.</p>
+            <p n="1">1. Sleep ſeizes upon all ſorts of men; high and low, rich and poor, learned and unlearned: A man may poſſibly continue without Meat and Drink longer than without Sleep: Within a few hours, the indiſpenſible neceſſities of Nature ſtill calling for it; thus <hi>it is appointed for all men once to die, and after death the Judgment:</hi> Tho' the Body of <hi>Adam</hi> was at firſt compoſed of jarring Elements; yet if he had never loſt his Original Righteouſneſs, by the merciful gift and ap<g ref="char:EOLhyphen"/>pointment of God, he had ſtill been preſerved; (whatever Socinians dream to the contrary) in a ſtate of Immortality; but ſince the Fall, ſin en<g ref="char:EOLhyphen"/>tring into the World, made way for the univer<g ref="char:EOLhyphen"/>ſal Monarchy of Death; ſo that now, 'tis not the dazling Wedge of Gold, nor ſwelling Titles of Honour, not an Eloquent Tongue, nor a beau<g ref="char:EOLhyphen"/>tiful Face, nor a valiant Hand, nor a ſubtle Brain; that can priviledge any from the ſtroke of Death; Death goes as boldly into the Palace of a King,
+<pb n="6" facs="tcp:66359:5"/>as into the Cottage of a Shepherd, nor does it make any difference between the Judge upon the Bench, and the Priſoner at the Bar; the greateſt eminency of Grace and Holineſs, cannot keep off the Aſſaults of Death. <hi>Enoch</hi> and <hi>Elias,</hi> tho' they were bodily tranſlated into Heaven, yet we may ſuppoſe in their paſſage thither, they did undergo ſome change equivolent to Death; the ſame which ſhall befal thoſe Saints that are found alive at the ſecond coming of Chriſt.</p>
+            <p n="2">2. When men deſire to ſleep, they go naked into their Beds; laying aſide all Ornaments and coſtly Attire: Thus we ſhall be as naked in our Burial, as at our Birth; and as we brought nothing into the World, ſo it is cer<g ref="char:EOLhyphen"/>tain we can carry nothing out: Houſes and Lands, Flocks and Fields, Corn and Cattel, will not go down with any into the Grave; there<g ref="char:EOLhyphen"/>fore they that have Riches ſhould be ready to diſtribute, willing to communicate and relieve the neceſſities of others; for with ſuch Sacri<g ref="char:EOLhyphen"/>fices God is well pleaſed; and let all be ſtirred up to get the Wedding Garment of Chriſt's
+<pb n="7" facs="tcp:66359:5"/>Imputed Righteouſneſs, get the Teſtimony of good Conſcience, which is ſweeter than Muſick at a Banquet of Wine; get an aſſurance of God's favour, and adorn your Souls with the Jewels of the New Covenant, which can never be loſt or taken away.</p>
+            <p n="3">3. Sleep can only ſeize on the Body, but it has no power over the Soul; the ſpirit of a man can both hope and fear, rejoyce or grieve, diſ<g ref="char:EOLhyphen"/>courſe and deliberate about things when the Body is captivated in the deepeſt ſlumber. <hi>Ter<g ref="char:EOLhyphen"/>tullian</hi> uſeth it as an Argument to prove the Souls Immortality; How can that be ſubject to real Death, which is not ſubject ſo much as to the leaſt ſhadow, likeneſs, or ſimilitude of it? Whether that Reaſon be cogent or not, to be ſure, Temporal Death can exerciſe no Juriſ<g ref="char:EOLhyphen"/>diction over the Soul; that is near akin to the Angels, and ſhall live for ever. Some men of corrupt minds have thought that the Soul of Man ſleeps with his Body in the Grave, till the Reſurrection; there it lies ſenſleſs and ſluggiſh, not capable of joy or ſorrow. Pope <hi>John</hi> the 22.
+<pb n="8" facs="tcp:66359:6"/>to give the Chriſtian World a proof of his Pa<g ref="char:EOLhyphen"/>pal Infallibility, declared himſelf the Patron of this Opinion; being ſo hot and vigorous in the maintaining of it, that he ſuffered none to take their Degrees in the Univerſity of <hi>Paris,</hi> unleſs they did firſt ſubſcribe this brutiſh Doctrine; but by the Pope's leave, let the Holy Ghoſt de<g ref="char:EOLhyphen"/>cide the Controverſie. <hi>Paul</hi> ſays expreſly, that when Believers are abſent from the body, they are preſent with the Lord. And Chriſt tells the good Thief upon the Croſs, <hi>This day ſhalt thou be with me in Paradice:</hi> His Body was to lie it may be in the ſame Grave with the other Male<g ref="char:EOLhyphen"/>factors, but his Soul had this priviledge, to go with Chriſt himſelf into Paradice, a place of un<g ref="char:EOLhyphen"/>ſpeakable delight and pleaſure. When Chriſt and ſome of his Diſciples was upon the Mount of Transfiguration, the Souls of <hi>Moſes</hi> and <hi>Elias</hi> appeared, diſcourſing with him about the ſuffer<g ref="char:EOLhyphen"/>ings which he was to accompliſh at <hi>Jeruſalem:</hi> Likewiſe when Chriſt would ſtop the mouth of the Sadduces, who denied the Reſurrection, he quotes that place out of <hi>Exodus; I am the God of Abraham, Iſaac and Jacob;</hi> preſently from
+<pb n="9" facs="tcp:66359:6"/>thence inferring, he is the God of the living, and not of the dead; ſo that the Souls of thoſe Re<g ref="char:EOLhyphen"/>nowned Patriarchs, were at that time living, tho' their Bodies for many hundred years had lain rotting in the Grave, <hi>Rev.</hi> 6.9, 10. <hi>When he had opened the fifth Seal, I ſaw under the Altar, the Souls of them that were ſlain for the Word of God, and for the Teſtimony which they held, and they cried with a loud voice, ſaying, How long, O Lord, holy and true, doſt thou not judge and avenge our blood on them that dwell on the Earth?</hi> Theſe Scriptures ſufficiently prove that the Soul of Man is never ſubject to the ſleep of Death.</p>
+            <p n="4">4. Tho' men ſleep in the night, they com<g ref="char:EOLhyphen"/>monly awake in the morning. Thus, tho' the People of God fall aſleep during the long Night of Death, yet they ſhall be awakened in the Morning of the Reſurrection: When Chriſt ſhall deſcend from Heaven with a mighty ſhout, the voice of an Arch-Angel, and the Trumpet of God, all both good and bad ſhall appear with the ſame numerical Bodies which they had when they lay down in the Graves; both the Juſtice
+<pb n="10" facs="tcp:66359:7"/>and Mercy of God require this: For, if the Bo<g ref="char:EOLhyphen"/>dy have joyned with the Soul to carry on a Trade of Rebellion againſt God; if it has been a ſlave to Sin and Satan, and a ſervant to fulfil unrighteouſneſs; what can be more juſt, than that the ſame Body ſhould be joyned again to the Soul, to be its Companion in a ſtate of ever<g ref="char:EOLhyphen"/>laſting Miſery and Torment? and on the other ſide, if the Body have been poſſeſſed in ſanctifi<g ref="char:EOLhyphen"/>cation and honour; if it has been a living Temple of the Holy Ghoſt, if it have joyned with the Soul to ſerve and worſhip God; the Mercy of God requires that the ſame Body be united to ſuch a Soul, and be its Companion in a ſtate of everlaſting Bliſs and Happineſs. <hi>Job</hi> was very confident of this, <hi>chap.</hi> 19.25, 26. <hi>I know that my Redeemer liveth, and that he ſhall ſtand in the latter days upon the Earth; and tho' af<g ref="char:EOLhyphen"/>ter my skin Worms deſtroy this Body; yet in my fleſh ſhall I ſee God.</hi> If <hi>Job</hi>'s Faith concerning the Re<g ref="char:EOLhyphen"/>ſurrection were ſo ſtrong, ours may well be ſtronger, all circumſtances of it being made known to us, by New-Teſtament Revelations; and we need not queſtion but that the ſame
+<pb n="11" facs="tcp:66359:7"/>Almighty Power which faſhioned our Body in our Mothers Womb, can as eaſily give it us again, and reſtore it to us, tho' it has been con<g ref="char:EOLhyphen"/>ſumed in the Grave; for what can be difficult to him whoſe will is his work? as <hi>Cyprian</hi> ſpeaks, <hi>Deo voluiſſe eſt feciſſe.</hi>
+            </p>
+            <p n="5">5. Men after ſleep oftentimes have greater comfort and refreſhment. Sleep is one of Na<g ref="char:EOLhyphen"/>ture's beſt Phyſicians; it recruits our ſpirits that are ſpent, and reſtores our ſtrength that was decayed. Thus the Bodies of God's People, when they are awakened after the long ſleep of Death, ſhall be in a better condition than ever; for tho' they ſhall be the ſame for ſubſtance, yet their qualities ſhall have a wonderful change; they ſhall be raiſed ſtrong and powerful, ſwift and ſpeedy in their motion, it may be beyond any Bird that flies in the Air, or any Star that moves in the Heavens; they ſhall then have no defect or blemiſh; they ſhall be raiſed ſpiri<g ref="char:EOLhyphen"/>tual bodies, ſupported by the immediate in<g ref="char:EOLhyphen"/>fluence of the Soul, without Meat, Drink, or Phyſick, and other natural helps which now
+<pb n="12" facs="tcp:66359:8"/>they ſtand in need of; for they ſhall be like the glorified Body of Chriſt.</p>
+            <p n="6">6. Men go to ſleep that they may take their reſt: Thus, the People of God, when they ſleep in their death, ſhall reſt from all ſin and ſuffer<g ref="char:EOLhyphen"/>ing, from the Perſecutions of wicked men; from being buffeted by Satan's Temptations: They ſhall no more ſtand in fear of his fiery Darts; they ſhall reſt from all trouble and di<g ref="char:EOLhyphen"/>ſturbance, all pain and labour, <hi>Rev.</hi> 14.13. <hi>Bleſſed are the dead that die in the Lord, that they may reſt from their labour, and their works ſhall follow them.</hi>
+            </p>
+            <p n="7">7. The more pains men take, and the harder they work all the day long, the better they ſleep at night. <hi>Solomon</hi> tells us, <hi>The ſleep of a labouring man is ſweet:</hi> Thus, the harder men work for God, the more they work for their Souls, and make proviſion for Eternity, during the time of life, the more refreſhing will their ſleep be when the night of Death comes; therefore Chriſtians, ſhake off ſloth and negli<g ref="char:EOLhyphen"/>gence;
+<pb n="13" facs="tcp:66359:8"/>do all the good you can; the remem<g ref="char:EOLhyphen"/>brance of any one good work, when you come to die, will comfort you more than thouſands of Gold and Silver: Fill up your time with good and gracious actions, beſtir your ſelves, as it be<g ref="char:EOLhyphen"/>comes thoſe which believe that future Glory, tho' it be not diſpenſed according to the merit, yet according to the meaſure of good works; they ſhall ſit upon the higheſt Thrones of Coe<g ref="char:EOLhyphen"/>leſtial Honour, and wear the brighteſt Crowns when they come to poſſeſs the promiſed King<g ref="char:EOLhyphen"/>dom, which have done moſt for God in their preſent Generation.</p>
+            <p n="8">8. If a man over-charge himſelf with eating and drinking juſt as he goes to ſleep, that will make his ſleep very uncomfortable, and full of diſturbance: Thus, if we make too large a Meal of Creature-comforts, and get a ſurfeit by feed<g ref="char:EOLhyphen"/>ing immoderately upon the profits and pleaſures of this World, it will make the ſleep of Death uncomfortable to us: An inordinate Affection to any earthly Treaſure, will as certainly kill and deſtroy the Soul, as the practice of Adul<g ref="char:EOLhyphen"/>tery,
+<pb n="14" facs="tcp:66359:9"/>Murther, Witchcraft, or any the moſt heinous Abomination that can be named; there<g ref="char:EOLhyphen"/>fore Chriſtians, tho' the World come into your Houſes, yet keep it out of your Heart; make uſe of it, only as a Servant; let it not exerciſe any commanding power over your ſpirit, or bring you into bondage.</p>
+            <p>Now to apply what has been ſpoken.</p>
+            <p n="1">1. Let me perſwade you to look upon Death, not as 'tis preſented in the Glaſs of Nature, but as it is preſented in the Glaſs of Scripture; in the Glaſs of Nature, the Picture of Death is drawn with a grim countenance; 'tis the King of Terrours, it comes as a fiery hiſſing Serpent, carrying the Sting of Divine Vengeance in its mouth; but as preſented in the Glaſs of Scrip<g ref="char:EOLhyphen"/>ture, it comes to the People of God as a Meſ<g ref="char:EOLhyphen"/>ſenger of glad Tidings; it calls them from dwel<g ref="char:EOLhyphen"/>ling in a ſtrange Countrey, that they may go to live in their Fathers Houſe; where the Tongue of an Angel cannot expreſs what magnificent preparation is made for their Entertainment; it
+<pb n="15" facs="tcp:66359:9"/>comes to turn their Water into Wine, all their Sorrow into Joy; and wipe all Tears from their Eyes; it will take a heavy Croſs from off their back, and ſet upon their head a flouriſhing Garland made of the Flowers of Paradice, which ſhall never fade, nor wither away.</p>
+            <p n="2">2. Let me ſpeak ſomething in relation to our dear Siſter, the Solemnity of whoſe Funeral, is the occaſion of our preſent meeting together; ſhe was a fruitful Mother in <hi>Iſrael,</hi> which brought up many Children in the fear of God; her great care was to ſeaſon their tender Years with Religious Education; ſhe was eminent for Humility and Patience, and for wearing the Or<g ref="char:EOLhyphen"/>nament of a meek and quiet ſpirit, which is in the ſight of God of great price: She had a love to God, a love to his Ways, Word and Wor<g ref="char:EOLhyphen"/>ſhip, a love to his People, to all that had the Image of Chriſt ſhining forth upon them; and we have reaſon to conclude that Grace was rooted in her heart, which did ſo ſweetly bloſ<g ref="char:EOLhyphen"/>ſom at her Lips in holy religious diſcourſe; ſhe is now landed upon the Shore of a happy Eter<g ref="char:EOLhyphen"/>nity,
+<pb n="16" facs="tcp:66359:10"/>never to meet with Storms, or go to Sea any more: Weep not for her, but rather for your ſelves, and for thoſe Calamities which the ſins of the Nation may bring upon us, unleſs almoſt a Miracle of Divine goodneſs prevent it.</p>
+            <p n="3">3. The ſleep of Death is common both to good and bad. You read that <hi>Jeroboam</hi> that Idolatrous King of <hi>Iſrael,</hi> ſlept with his Fathers. The like is affirmed of <hi>Baaſha,</hi> and <hi>Omri,</hi> and other wicked Princes; ſo that the body of the moſt ungodly perſon may be ſaid to ſleep in the Grave, but how? juſt as a condemned Ma<g ref="char:EOLhyphen"/>lefactor may fall aſleep in his Priſon the night before his Execution; which tho' he ſeem never ſo ſafe and ſecure in his own thoughts, and hug many golden Dreams in his ſick deluded fancy; yet as ſoon as ever he awakes in the morning, he muſt be drawn to the place where he ſhall endure ſome cruel tormenting Death: Thus, tho' the Bodies of wicked men ſleep in the Grave for a while, yet at the day of general Judgment, they muſt be raiſed only that they may be capable to endure the Torments of
+<pb n="17" facs="tcp:66359:10"/>Eternal Damnation. That therefore Death may prove a happy ſleep to you,</p>
+            <p>Firſt; Make great preparation for it, becauſe there is a great God to whom you muſt be re<g ref="char:EOLhyphen"/>conciled; you have committed great ſins, which muſt be pardoned and forgiven; great tempta<g ref="char:EOLhyphen"/>tions, that muſt be reſiſted; great difficulties lying in your way to Eternal Happineſs, that muſt be paſſed through: Beſides, Death will bring a great change upon you, then you muſt change Time for Eternity, Earth for Heaven or Hell, where glorious Angels, or black deformed Devils muſt be your Companions for ever: Much true Wiſdom lies in the conſideration of your latter end; <hi>ut Mortem nunquam timeas, ſem<g ref="char:EOLhyphen"/>per cogita;</hi> that you may never fear Death, make it familiar to your thoughts.</p>
+            <p>Secondly; Be ſure to ſleep in Jeſus; that ex<g ref="char:EOLhyphen"/>preſſion you have, 1 <hi>Theſ.</hi> 4.14. <hi>If we believe that Jeſus died and roſe again, even ſo them alſo which ſleep in Jeſus, will God bring with him.</hi> And now to ſleep in Jeſus, briefly, is to have
+<pb n="18" facs="tcp:66359:11"/>an experimental knowledge of him, to love him ſincerely, and believe on him: Receive this Pearl of price with an empty hand, joyning none of your good works with his Merits in the matter of Juſtification: Receive him, not only as a Sa<g ref="char:EOLhyphen"/>viour, to deliver you from the Wrath of God, and the Curſe of the Law, but as a Supreme Lord and Governour, that you may yield un<g ref="char:EOLhyphen"/>feigned Obedience to his Commands: And be perſwaded of this, that none ſhall be admitted to Reign with Chriſt in Heaven, which do not ſet up a Throne for him to Reign in their hearts while they are here upon Earth.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:66359:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
